@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nherciu7
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning Motoko
-- 💞️ I’m looking to collaborate on any web development project
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning Azure 
+- 💞️ I’m looking to collaborate on any IT project
 - 📫 How to reach me - nichitaherciu2003@gmail.com
 
 <!---
