@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nherciu7
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Azure 
+- 🌱 I’m currently learning Android and IOs Development + Agentic AI 
 - 💞️ I’m looking to collaborate on any IT project
 - 📫 How to reach me - nichitaherciu2003@gmail.com
 
