@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nherciu7
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Android and IOs Development + Agentic AI 
+- 👋 Hi, I’m Nichita
+- 👀 I’m interested in Software Development, Quality Assurance and AI
+- 🌱 I’m currently taking the Claude AI Architect Courses
 - 💞️ I’m looking to collaborate on any IT project
 - 📫 How to reach me - nichitaherciu2003@gmail.com
 
